@@ -24,7 +24,7 @@ you can indicate which version of `client-go` your project requires:
   For example, `k8s.io/client-go@v0.20.4` corresponds to Kubernetes `v1.20.4`:
 
 ```sh
-go get k8s.io/client-go@v0.20.4
+go get k8s.io/client-go@v1.20.4
 ```
 
 - If you are using Kubernetes versions < `v1.17.0`, use a corresponding `kubernetes-1.x.y` tag.
